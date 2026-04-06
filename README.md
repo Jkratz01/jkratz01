@@ -16,5 +16,8 @@
   <a href="mailto:basedjkratz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jkratz01&show_icons=true&locale=en&layout=compact" alt="Jkratz01" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jkratz01&show_icons=true&locale=en" alt="Jkratz01" /></p>
+<h3 align="left">GitHub</h3>
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Jkratz01?style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Jkratz01?style=for-the-badge&logo=github" alt="GitHub stars" />
+</p>
