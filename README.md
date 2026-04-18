@@ -19,7 +19,6 @@
 <h3 align="left">GitHub</h3>
 <p align="left">
   <img src="https://img.shields.io/github/followers/Jkratz01?style=for-the-badge&logo=github" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Jkratz01?style=for-the-badge&logo=github" alt="GitHub stars" />
 </p>
 
 <h3 align="left">My stats</h3>
@@ -30,5 +29,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Jkratz01&show_icons=true&locale=en" alt="GitHub stats" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Jkratz01" alt="GitHub streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jkratz01&amp;theme=dark&amp;date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </p>
